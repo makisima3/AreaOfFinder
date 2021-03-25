@@ -65,5 +65,9 @@ namespace AreaOfFinder
 
             return (-1, "Фигура с таким кол-вом сторон еще не добавлена");
         }
+
+       //Select prod.Name, kat.Name from products prod
+       //inner left kategory kat ON prod.KategoryID = kat.ID
     }
+
 }
