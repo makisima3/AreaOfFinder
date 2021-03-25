@@ -1,0 +1,9 @@
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\bin\Debug\AreaOfFinder.dll
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\bin\Debug\AreaOfFinder.pdb
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\bin\Debug\System.ValueTuple.dll
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\bin\Debug\System.ValueTuple.xml
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\obj\Debug\AreaOfFinder.csprojAssemblyReference.cache
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\obj\Debug\AreaOfFinder.csproj.CoreCompileInputs.cache
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\obj\Debug\AreaOfFinder.csproj.CopyComplete
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\obj\Debug\AreaOfFinder.dll
+C:\Users\maxim.aksenov\source\repos\AreaOfFinder\AreaOfFinder\obj\Debug\AreaOfFinder.pdb
